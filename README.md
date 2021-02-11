@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Olga. And i am a web developer from Berlin.👋
 
 <!--
 **Olga-bln/Olga-bln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
